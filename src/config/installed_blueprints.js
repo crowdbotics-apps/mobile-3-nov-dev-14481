@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'EmailAuth', human_name: 'EmailAuth', access_route: 'EmailAuth', icon: 'envelope-o'},
 { name: 'BlankBlueprint', human_name: 'Blank', access_route: 'BlankBlueprint'},
 { name: 'BlankScreen213763', human_name: 'Blank Screen 2', access_route: 'BlankScreen213763'},
 { name: 'BlankScreen113753', human_name: 'Blank Screen 1', access_route: 'BlankScreen113753'},
